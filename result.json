@@ -1,0 +1,391 @@
+{
+    "keywords": "Python",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "python",
+            "count": 59,
+            "percent": 73.75
+        },
+        {
+            "name": "postgresql",
+            "count": 30,
+            "percent": 37.5
+        },
+        {
+            "name": "git",
+            "count": 28,
+            "percent": 35.0
+        },
+        {
+            "name": "sql",
+            "count": 22,
+            "percent": 27.5
+        },
+        {
+            "name": "rest",
+            "count": 21,
+            "percent": 26.25
+        }
+    ]
+}{
+    "keywords": "Java",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "java",
+            "count": 56,
+            "percent": 70.0
+        },
+        {
+            "name": "postgresql",
+            "count": 31,
+            "percent": 38.75
+        },
+        {
+            "name": "sql",
+            "count": 31,
+            "percent": 38.75
+        },
+        {
+            "name": "git",
+            "count": 31,
+            "percent": 38.75
+        },
+        {
+            "name": "spring framework",
+            "count": 29,
+            "percent": 36.25
+        }
+    ]
+}{
+    "keywords": "“естировщик",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "тестирование",
+            "count": 30,
+            "percent": 37.5
+        },
+        {
+            "name": "qa",
+            "count": 25,
+            "percent": 31.25
+        },
+        {
+            "name": "функциональное тестирование",
+            "count": 23,
+            "percent": 28.75
+        },
+        {
+            "name": "sql",
+            "count": 23,
+            "percent": 28.75
+        },
+        {
+            "name": "web",
+            "count": 21,
+            "percent": 26.25
+        }
+    ]
+}{
+    "keywords": "python developer",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "python",
+            "count": 59,
+            "percent": 73.75
+        },
+        {
+            "name": "postgresql",
+            "count": 36,
+            "percent": 45.0
+        },
+        {
+            "name": "git",
+            "count": 32,
+            "percent": 40.0
+        },
+        {
+            "name": "docker",
+            "count": 26,
+            "percent": 32.5
+        },
+        {
+            "name": "rest",
+            "count": 24,
+            "percent": 30.0
+        }
+    ]
+}{
+    "keywords": "java developer",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "java",
+            "count": 56,
+            "percent": 70.0
+        },
+        {
+            "name": "git",
+            "count": 35,
+            "percent": 43.75
+        },
+        {
+            "name": "postgresql",
+            "count": 34,
+            "percent": 42.5
+        },
+        {
+            "name": "spring framework",
+            "count": 32,
+            "percent": 40.0
+        },
+        {
+            "name": "sql",
+            "count": 31,
+            "percent": 38.75
+        }
+    ]
+}{
+    "keywords": "—троитель",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "строительство",
+            "count": 21,
+            "percent": 26.25
+        },
+        {
+            "name": "работа в команде",
+            "count": 14,
+            "percent": 17.5
+        },
+        {
+            "name": "производство строительно-монтажных работ",
+            "count": 11,
+            "percent": 13.75
+        },
+        {
+            "name": "строительно-отделочные работы",
+            "count": 9,
+            "percent": 11.25
+        },
+        {
+            "name": "отделка помещений",
+            "count": 8,
+            "percent": 10.0
+        }
+    ]
+}{
+    "keywords": "Ёлектромонтажник",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "электромонтажные работы",
+            "count": 14,
+            "percent": 17.5
+        },
+        {
+            "name": "монтаж оборудовани€",
+            "count": 12,
+            "percent": 15.0
+        },
+        {
+            "name": "работа в команде",
+            "count": 12,
+            "percent": 15.0
+        },
+        {
+            "name": "работа в услови€х многозадачности",
+            "count": 6,
+            "percent": 7.5
+        },
+        {
+            "name": "работа с электроинструментом",
+            "count": 6,
+            "percent": 7.5
+        }
+    ]
+}{
+    "keywords": "плотник",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "работа в команде",
+            "count": 15,
+            "percent": 18.75
+        },
+        {
+            "name": "плотницкие работы",
+            "count": 11,
+            "percent": 13.75
+        },
+        {
+            "name": "работа в услови€х многозадачности",
+            "count": 8,
+            "percent": 10.0
+        },
+        {
+            "name": "отделка помещений",
+            "count": 7,
+            "percent": 8.75
+        },
+        {
+            "name": "деревообработка",
+            "count": 6,
+            "percent": 7.5
+        }
+    ]
+}{
+    "keywords": "сварщик",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "сварочные работы",
+            "count": 32,
+            "percent": 40.0
+        },
+        {
+            "name": "сварка",
+            "count": 18,
+            "percent": 22.5
+        },
+        {
+            "name": "работа в команде",
+            "count": 12,
+            "percent": 15.0
+        },
+        {
+            "name": "чтение чертежей",
+            "count": 7,
+            "percent": 8.75
+        },
+        {
+            "name": "монтаж металлоконструкций",
+            "count": 7,
+            "percent": 8.75
+        }
+    ]
+}{
+    "keywords": "инженер",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "autocad",
+            "count": 21,
+            "percent": 26.25
+        },
+        {
+            "name": "пользователь пк",
+            "count": 11,
+            "percent": 13.75
+        },
+        {
+            "name": "excel",
+            "count": 9,
+            "percent": 11.25
+        },
+        {
+            "name": "работа в команде",
+            "count": 8,
+            "percent": 10.0
+        },
+        {
+            "name": "office",
+            "count": 7,
+            "percent": 8.75
+        }
+    ]
+}{
+    "keywords": "¬еб разработчик",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "html",
+            "count": 40,
+            "percent": 50.0
+        },
+        {
+            "name": "javascript",
+            "count": 40,
+            "percent": 50.0
+        },
+        {
+            "name": "css",
+            "count": 36,
+            "percent": 45.0
+        },
+        {
+            "name": "php",
+            "count": 35,
+            "percent": 43.75
+        },
+        {
+            "name": "git",
+            "count": 26,
+            "percent": 32.5
+        }
+    ]
+}{
+    "keywords": "плотник",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "работа в команде",
+            "count": 15,
+            "percent": 18.75
+        },
+        {
+            "name": "плотницкие работы",
+            "count": 11,
+            "percent": 13.75
+        },
+        {
+            "name": "работа в услови€х многозадачности",
+            "count": 8,
+            "percent": 10.0
+        },
+        {
+            "name": "отделка помещений",
+            "count": 7,
+            "percent": 8.75
+        },
+        {
+            "name": "деревообработка",
+            "count": 6,
+            "percent": 7.5
+        }
+    ]
+}{
+    "keywords": "плотник",
+    "count": 80,
+    "requirements": [
+        {
+            "name": "работа в команде",
+            "count": 15,
+            "percent": 18.75
+        },
+        {
+            "name": "плотницкие работы",
+            "count": 11,
+            "percent": 13.75
+        },
+        {
+            "name": "работа в услови€х многозадачности",
+            "count": 8,
+            "percent": 10.0
+        },
+        {
+            "name": "отделка помещений",
+            "count": 7,
+            "percent": 8.75
+        },
+        {
+            "name": "деревообработка",
+            "count": 6,
+            "percent": 7.5
+        }
+    ]
+}
