@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DZ_12_hh.iml" filepath="$PROJECT_DIR$/.idea/DZ_12_hh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hh/github.iml" filepath="$PROJECT_DIR$/.idea/hh/github.iml" />
+      <module fileurl="file://$USER_HOME$/DZ_HTML/startbootstrap-business-casual-gh-pages/.idea/startbootstrap-business-casual-gh-pages.iml" filepath="$USER_HOME$/DZ_HTML/startbootstrap-business-casual-gh-pages/.idea/startbootstrap-business-casual-gh-pages.iml" />
     </modules>
   </component>
 </project>
